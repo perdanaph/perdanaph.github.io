@@ -1,4 +1,4 @@
 # perdanaph.github.io
 
 my-personal website
-[https://perdanaph.github.io/01-mybiowebsite]
+[https://perdanaph.github.io/mybio]
